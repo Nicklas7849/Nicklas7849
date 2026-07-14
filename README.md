@@ -8,11 +8,11 @@ and to automate recurring analytical tasks.
 
 ## Selected projects
 
-- **[automated-market-analysis](https://github.com/Nicklas7849/automated-market-analysis)** –
+- **[automated-market-analysis](https://github.com/Nicklas7849/automated-market-analysis-showcase)** –
   Automated daily market report: one command downloads cross-asset data,
   computes risk and return metrics, renders charts and assembles a PDF and
   Excel briefing.
-- **[interactive-drink-menu](https://github.com/Nicklas7849/interactive-drink-menu)** –
+- **[interactive-drink-menu](https://github.com/Nicklas7849/interactive-drink-menu-showcase)** –
   Real-time cocktail ordering web app built for private parties, with a
   QR-based guest menu and a live order queue for the bar (Firebase).
 
