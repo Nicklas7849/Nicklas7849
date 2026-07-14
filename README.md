@@ -24,6 +24,3 @@ access can be provided for recruitment or evaluation purposes upon request.
 Python (pandas, NumPy, SciPy, Matplotlib), Excel, Stata, Git and a bit of
 JavaScript/Firebase for small web projects.
 
-## Contact
-
-nicklas7849@gmail.com
